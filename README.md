@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Microsoft Azure, DevOps**
 
-- 📫 How to reach me **ankityadav3152@gmail.com**
+- 📥 Drop me a line: **ankityadav3152@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H4RnkOvWVlbafbiRmlaxygodbiN1wjs7/view?usp=sharing](https://drive.google.com/file/d/1H4RnkOvWVlbafbiRmlaxygodbiN1wjs7/view?usp=sharing)
+- 📄 Explore my journey: <a href="https://drive.google.com/file/d/1H4RnkOvWVlbafbiRmlaxygodbiN1wjs7/view?usp=sharing" target="_blank">Resume</a>
 
 - ⚡ Fun fact: **Code never lies, comments sometimes do.**
 
