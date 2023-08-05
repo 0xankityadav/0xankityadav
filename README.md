@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">A passionate frontend developer</h3>
+[![MasterHead](./github-header.png)]()
+----
 <img align="right" alt="Coding" width="400" src="./codingimage.gif" style="border-radius: 25px"/>
 
 - 🌱 I’m currently learning **Microsoft Azure, DevOps**
