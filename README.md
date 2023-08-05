@@ -1,6 +1,11 @@
 [![MasterHead](./github-header.png)]()
-----
-<img align="right" alt="Coding" width="400" src="./codingimage.gif" style="border-radius: 25px"/>
+
+
+
+<img align="right" alt="Coding" width="400" src="./animated-img.gif"/>
+
+<br>
+<br>
 
 - 🌱 I’m currently learning **Microsoft Azure, DevOps**
 
@@ -9,6 +14,11 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1H4RnkOvWVlbafbiRmlaxygodbiN1wjs7/view?usp=sharing](https://drive.google.com/file/d/1H4RnkOvWVlbafbiRmlaxygodbiN1wjs7/view?usp=sharing)
 
 - ⚡ Fun fact: **Code never lies, comments sometimes do.**
+
+<br>
+<br>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
