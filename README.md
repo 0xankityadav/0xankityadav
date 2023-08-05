@@ -1,11 +1,11 @@
 [![MasterHead](./github-header.png)]()
 
 
-<img align="right" alt="Coding" width="350" src="./animated-img.gif"/>
+<img align="right" alt="Coding" width="350" src="./animated-img.gif"/>&nbsp;
 
 <br>
 
-- 🌱 I’m currently learning **Microsoft Azure, DevOps**
+- 🛠️ I’m currently working on **Frontend Development and DevOps Practices**
 
 - 📥 Drop me a line: **ankityadav3152@gmail.com**
 
