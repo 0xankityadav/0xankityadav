@@ -1,11 +1,10 @@
-[![MasterHead](./github-header.png)]()
 
 
 <img align="right" alt="Coding" width="350" src="./animated-img.gif"/>&nbsp;
 
 <br>
 
-- 🛠️ I’m currently working on **Frontend Development and DevOps Practices**
+- 🛠️ I’m currently working on **Fullstack Development and DevOps Practices**
 
 - 📥 Drop me a line: **ankityadav3152@gmail.com**
 
